@@ -1,0 +1,7 @@
+NETWORK CHECK
+=============
+Target host: /Users/rajivhenry/Documents/TheoWAF/temp/Class work/Fall26/Fall_2026_bootcamp/live-server-diagnostics
+
+Ping status: FAILED
+
+ping: cannot resolve /Users/rajivhenry/Documents/TheoWAF/temp/Class work/Fall26/Fall_2026_bootcamp/live-server-diagnostics: Unknown host
