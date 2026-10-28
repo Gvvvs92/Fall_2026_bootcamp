@@ -1,0 +1,1 @@
+/Library/Frameworks/Python.framework/Versions/3.13/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/rajivhenry/Documents/TheoWAF/temp/Class work/Fall26/Fall_2026_bootcamp/live-server-diagnostics/diagnostics/python/system_info.py': [Errno 2] No such file or directory
